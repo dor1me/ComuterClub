@@ -1,0 +1,6 @@
+header .musthead{
+background-image: url("../assets/img/background.jpg");
+opacity: 0.9;
+backdrop-filter: blur(150px);
+}
+
